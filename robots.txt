@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoboshogo.cazaea.com/sitemap.xml
